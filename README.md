@@ -42,7 +42,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Video Demonstration
 
-[See this app in action.](https:)
+[See this app in action.](https://www.youtube.com/watch?v=Bl8IUvmLQoE)
 
 ## Credits
 
